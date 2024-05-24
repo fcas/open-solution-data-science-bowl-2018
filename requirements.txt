@@ -80,7 +80,7 @@ terminaltables==2.1.0
 testpath==0.3.1
 torchvision==0.2.0
 tornado==4.2
-tqdm==4.11.2
+tqdm==4.66.3
 traitlets==4.3.2
 urllib3>=1.23
 voluptuous==0.9.3
